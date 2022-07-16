@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him/Xein/Xain/Heil/Xan/Xim/Can/Can't/Wont/Will
 - ⚡ Fun fact: I'm worlds best coder camgirl yes
 <img src="https://github-readme-stats.vercel.app/api?username=Snowwy1337&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://komarev.com/ghpvc/?username=Snowwy1337&style=flat-square)">
+<img src="https://komarev.com/ghpvc/?username=Snowwy1337&style=for-the-badge&color=blueviolet)">
 <!--
 **Snowwy1337/Snowwy1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
